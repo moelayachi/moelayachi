@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moelayachi/moelayachi/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moelayachi/moelayachi/main/light.svg">
-  <img alt="Mohammed El Ayachi, web development student and UI designer" src="https://raw.githubusercontent.com/moelayachi/moelayachi/main/light.svg">
+  <img alt="Mohammed El Ayachi, web development student at YouCode" src="https://raw.githubusercontent.com/moelayachi/moelayachi/main/light.svg">
 </picture>
 
 
