@@ -5,15 +5,6 @@
 </picture>
 
 
-## 🚀 Projects
-
-- **Taawon**: a website for Moroccan artisan cooperatives, designed in Figma (5 pages) and built with HTML and Tailwind CSS
-- [**Book Library**]: A JavaScript-based web application to manage a personal book collection, with features like adding, editing, deleting, searching, sorting, and saving books locally.
-
-## 🛠️ Tech & tools
-
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-
 
 <!--
 STEP 2 (after you deploy your own github-readme-stats on Vercel):
